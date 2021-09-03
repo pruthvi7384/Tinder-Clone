@@ -17,6 +17,12 @@ function ChatRoom() {
             message: 'Hows it going'
         }
     ])
+    const [input,setInput] = useState('');
+    const sendMessage = (e)=>{
+        e.preventDefault();
+        setmessage([...messages,{message:input}]);
+        setInput('');
+    }
     return (
         <div>
             <div className="chat-room">
@@ -35,8 +41,8 @@ function ChatRoom() {
                 ))}
             </div>
             <form className="chat_rom_input">
-                    <input className="chat_inputFiled" type="text" placeholder="Type a message..."/>
-                    <button className="send_button">SEND</button>
+                    <input className="chat_inputFiled" value={input} type="text" placeholder="Type a message..." onChange={e=>setInput(e.target.value)}/>
+                    <button className="send_button" onClick={sendMessage}>SEND</button>
             </form>
         </div>
     )
