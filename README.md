@@ -1,31 +1,22 @@
-# Tinder Clone Using REACT Js and Firebase
+# ♚𝕋𝕚𝕟𝕕𝕖𝕣-ℂ𝕝𝕠𝕟𝕖♛ 
+## ☮Build a TINDER Clone with REACT JS and is used for front-end, Firebase for databse and hosting to deploy it live.
+## ➡This is how your first interface will look: 
+ <img src="https://user-images.githubusercontent.com/56730283/102977982-c8d04480-4529-11eb-83ba-432b43a77fd6.png">
+ 
+## ➡Here's how you can right/left swipe:
+<img src="https://user-images.githubusercontent.com/56730283/102978052-e7ced680-4529-11eb-82bd-1a5d21d64bca.png">
 
-### Front End 
+## ➡You can chat with people you've matched with , just click on upper right chat icon:
+<img src="https://user-images.githubusercontent.com/56730283/102978227-2fedf900-452a-11eb-9ef4-85683c1b28f1.png">
 
-React js
-HTML
-CSS
+## ➡Here's how your chat section will look:
+<img src="https://user-images.githubusercontent.com/56730283/102978320-5875f300-452a-11eb-9fa8-e3ff2e947985.png">
 
-### Back End 
+## ➡Go ahead and chat with the one you like:
+<img src="https://user-images.githubusercontent.com/56730283/102978383-6c215980-452a-11eb-9fb2-733fe1bfb7fb.png">
 
-Firebase
+## ➡You can send your message by typing in the text area provided at bottom:
+<img src="https://user-images.githubusercontent.com/56730283/102978408-74799480-452a-11eb-99f4-0c6f69411cc4.png">
 
-#### Also used Tindercard React [https://www.npmjs.com/package/react-tinder-card](https://www.npmjs.com/package/react-tinder-card)
-
-### Step For Clone Repo
-
-#### Step 1 =>
-
-Open CMD and enter command => git clone [https://github.com/pruthvi7384/Tinder-Clone](https://github.com/pruthvi7384/Tinder-Clone/)
-
-#### Step 2 => 
-
-Create Project In Firebase [https://firebase.google.com/](https://firebase.google.com/)
-
-#### Step 3 => 
-
-Change Misc => Config.js file => and add your firebase config
-
-## Any Problem Refer Firebase Documentation => [https://firebase.google.com/docs](https://firebase.google.com/docs)
-
-#### Thank You !
+## ➡Your message will be displayed, once you hit send:
+<img src="https://user-images.githubusercontent.com/56730283/102978419-7ba0a280-452a-11eb-98fc-89e71a1d8da5.png">
